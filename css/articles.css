@@ -1,0 +1,58 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=IM+Fell+English+SC&display=swap');
+</style>
+
+
+body{
+  font-family: ccbiffbamboom, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  background-color: #FFFFFF;
+}
+
+.head img{
+  opacity: 100%;
+}
+
+.head img:hover {
+  opacity: 70%;
+  transition-duration: 1s;
+}
+
+img{
+  height: 70px;
+  width: auto;
+}
+
+.main img{
+  height: 300%;
+  width: auto;
+  margin-left: 15%;
+}
+
+h2{
+  font-family: ccbiffbamboom, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  font-size: 400%;
+}
+
+h3{
+  font-family: ccbiffbamboom, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  font-size: 150%;
+}
+
+.text{
+  font-family: 'Cairo', sans-serif;
+  font-family: 'IM Fell English SC', serif;
+  font-size: 120%;
+}
+
+.catologue img{
+  width: 100%;
+  height: auto;
+}
